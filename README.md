@@ -19,8 +19,6 @@ Below is a preview of the chatbot's user interface:
 
 ![UI Chatbot](https://github.com/user-attachments/assets/6d4f8230-e65a-4fa2-8d8f-3737c869b302)
  
-*(Replace `ui-preview.png` with the actual path to your UI screenshot in the repository.)*
-
 ---
 
 ### Technologies Used:
@@ -67,7 +65,3 @@ Below is a preview of the chatbot's user interface:
 - Expanding the intents and responses to cover more mental health topics.
 - Adding sentiment analysis for more empathetic responses.
 - Integrating external APIs for mental health resources and helpline numbers.
-
----
-
-Make sure to save the UI screenshot (e.g., as `ui-preview.png`) in the root of your repository or in a specific folder (like `assets/`) and update the path accordingly in the Markdown file.
